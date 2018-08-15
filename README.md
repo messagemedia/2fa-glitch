@@ -5,7 +5,7 @@ Two-Factor Authentication (2FA) adds an extra layer of protection beyond the pas
 To get started you need to:
 
 * Sign up for API keys from the [MessageMedia Developer Portal](https://developers.messagemedia.com/register)
-* Clone this project by clicking on the button below
+* Clone this project by clicking on the button below  
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/remix/https://glitch.com/~messagemedia-messages)
 * Copy across the API keys into the .env file
 * Click on "Show Live" at the top left
