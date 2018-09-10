@@ -1,4 +1,6 @@
 # Two-Factor Authentication with MessageMedia Messages API
+[![HitCount](http://hits.dwyl.io/messagemedia/2fa-glitch.svg)](http://hits.dwyl.io/messagemedia/2fa-glitch)
+
 Two-Factor Authentication (2FA) adds an extra layer of protection beyond the password. This notably decreases the risk of a hacker accessing your online accounts by combining something you know (a password) with a second factor, something you have such as a mobile phone. By adding this additional factor to your security flow, an account with a compromised password will still remain secure.
 
 #### Getting Started
